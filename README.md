@@ -11,3 +11,10 @@
 > https://thepythoncode.com/article/extract-chrome-cookies-python  
 > https://thepythoncode.com/article/extract-chrome-passwords-python  
 > https://learn.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptunprotectdata  
+# Disclaimer:
+> I will not be responsible for your actions.💀  
+> Use it at your own risk.💀  
+> Don't be a bad person.💀
+# P/S:
+> You can add more browsers.  
+> Only works on windows.
