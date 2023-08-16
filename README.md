@@ -8,5 +8,5 @@
 > Use skills and knowledge.
 > Read the documentation, api, example,...
 > Here are some sources:
-> [https://thepythoncode.com/article/extract-chrome-cookies-python] (https://thepythoncode.com/article/extract-chrome-cookies-python)
-> [https://thepythoncode.com/article/extract-chrome-passwords-python] (https://thepythoncode.com/article/extract-chrome-passwords-python)
+> https://thepythoncode.com/article/extract-chrome-cookies-python
+> https://thepythoncode.com/article/extract-chrome-passwords-python
