@@ -1,1 +1,1 @@
-# simple_stealer
+** Why was this project created? **
