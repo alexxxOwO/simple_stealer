@@ -6,7 +6,8 @@
 > 3. Send the collected data to your telegram.
 # How was this project created?
 > Use skills and knowledge.
-> Read the documentation, api, example,...
-> Here are some sources:
-> https://thepythoncode.com/article/extract-chrome-cookies-python
-> https://thepythoncode.com/article/extract-chrome-passwords-python
+> Read the documentation, api, example,...   
+> Here are some sources:  
+> https://thepythoncode.com/article/extract-chrome-cookies-python  
+> https://thepythoncode.com/article/extract-chrome-passwords-python  
+> https://learn.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptunprotectdata  
